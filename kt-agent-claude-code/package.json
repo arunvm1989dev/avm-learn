@@ -1,0 +1,9 @@
+{
+  "name": "kt-agent-claude-code",
+  "version": "1.0.0",
+  "description": "Claude Code sub-agent for Spring Boot KT document generation",
+  "dependencies": {
+    "docx": "^8.5.0"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
